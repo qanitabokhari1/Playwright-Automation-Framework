@@ -89,8 +89,7 @@ Playwright-Framework/
 ├── eslint.config.js                # ESLint configuration
 ├── package.json                    # Project dependencies and scripts
 ├── package-lock.json               # Dependency lock file
-├── README.md                       # This documentation file
-└── TODO.md                         # Development tasks and progress
+└── README.md                       # This documentation file
 ```
 
 ### Directory Explanations
@@ -115,7 +114,7 @@ Playwright-Framework/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/qanitabokhari1/Playwright-Automation-Framework.git
    cd Playwright-Framework
    ```
 
