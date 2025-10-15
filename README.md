@@ -115,7 +115,7 @@ Playwright-Framework/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/qanitabokhari1/Playwright-Automation-Framework.git
-   cd Playwright-Framework
+   cd Playwright-Automation-Framework
    ```
 
 2. **Install Dependencies**:
